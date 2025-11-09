@@ -4,8 +4,6 @@ This project was created before entering university as a way to practice and str
 - Project Portfolio: https://portfolio-sarawut.netlify.app/
 - Project Trips from Bangkok: https://tripsformbangkok.netlify.app/
 
-<br><br>  <!-- Adds extra space -->
-
 ---
 
 ## 🖥 Desktop View (GIF Animation)
